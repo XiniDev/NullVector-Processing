@@ -7,7 +7,7 @@
 ## 1) Quick Start
 
 1. **Install Processing** Go to the [Processing website](https://processing.org/download)
-2. **Open the project**: Double‑click the `.pde` file, or in Processing go to **File → Open…** and select your sketch.  
+2. **Open the project**: On Processing go to **File → Open…** and select `NullVector.pde`
 3. **Run**: Press the **Run** button (▶) or hit **Ctrl+R** (**Cmd+R** on macOS).  
 4. **Play** using the controls in the next section.
 
@@ -15,11 +15,10 @@
 
 ## 2) Open, Build & Run
 
-1. Ensure the sketch folder name matches the main `.pde` file name (Processing convention).  
-2. Put any images/sounds into a `data/` folder next to your `.pde` files if the project uses assets.  
-3. Open the sketch in Processing and click **Run** (▶).
+1. Ensure the sketch folder name matches the main `.pde` file name (`NullVector.pde` should be inside `NullVector` folder).
+2. Open the sketch in Processing and click **Run** (▶).
 
-If you see “**The file … is missing**”, confirm assets are inside `data/` and paths are correct.
+If you see “**The file … is missing**”, confirm assets are inside `assets/` and paths are correct.
 
 ---
 
